@@ -1,6 +1,9 @@
 lockfileVersion: '6.0'
 
 dependencies:
+  arseeding-arbundles:
+    specifier: 0.6.24
+    version: 0.6.24(@solana/web3.js@1.75.0)(@types/node@18.15.11)(typescript@5.0.4)
   arseeding-js:
     specifier: ^0.0.26
     version: 0.0.26(@solana/web3.js@1.75.0)(@types/node@18.15.11)(typescript@5.0.4)
@@ -10,6 +13,9 @@ dependencies:
   dotenv:
     specifier: ^16.0.3
     version: 16.0.3
+  ethers:
+    specifier: ^5.7.1
+    version: 5.7.2
   typescript:
     specifier: ^5.0.4
     version: 5.0.4
